@@ -1,0 +1,24 @@
+# Исполняемые файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Данные приложения
+bookmarks.json
+
+# Сборка Go
+bin/
+pkg/
+*.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Логи
+*.log
